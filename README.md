@@ -41,4 +41,4 @@ Tools:
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/alper-filiz-b25970311/
-- Email: m.alperfiliz
+- Email: m.alperfiliz@gmail.com
