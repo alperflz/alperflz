@@ -40,5 +40,5 @@ Tools:
 
 ## Contact
 
-- LinkedIn: LinkedIn URL]](https://www.linkedin.com/in/alper-filiz-b25970311/
+- LinkedIn: https://www.linkedin.com/in/alper-filiz-b25970311/
 - Email: m.alperfiliz
