@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Alper 👋
 
-<!--
-**alperflz/alperflz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics Student at Gazi University
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Developer
+- MERN Stack Developer
+- Interested in Full Stack Development
+- Experienced with freelance and personal projects
+- Strong background in SQL and Database Design
+
+## Tech Stack
+
+Frontend:
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+- SQL
+
+Tools:
+- Git
+- GitHub
+- Postman
+
+## Currently Learning
+
+- Advanced System Design
+- Cloud Technologies
+- Scalable Web Applications
+
+## Contact
+
+- LinkedIn: LinkedIn URL]](https://www.linkedin.com/in/alper-filiz-b25970311/
+- Email: m.alperfiliz
